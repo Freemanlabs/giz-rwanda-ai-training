@@ -1,0 +1,1 @@
+# giz-rwanda-ai-training

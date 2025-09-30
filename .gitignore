@@ -2,4 +2,6 @@
 .ipynb_checkpoints
 __pycache__
 *.pyc
+
 data/
+!intro_to_ai/**/data/

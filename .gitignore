@@ -3,5 +3,4 @@
 __pycache__
 *.pyc
 
-data/
-!intro_to_ai/**/data/
+cv-with-pytorch/**/data/
